@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jeph
 - 👀 I’m interested in Back-end web development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on my Journey of being developer
+- 💞️ I’m looking to collaborate on my Journey of being a senior backend developer
 - 📫 How to reach me email me on josephmaniragaba9@gmail.com
 
 <!---
