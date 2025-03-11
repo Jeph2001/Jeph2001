@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Joseph MANIRAGABA!
-I am a passionate Backend Developer with a strong foundation in web technologies and a growing interest in DevOps practices. I enjoy building scalable, efficient systems and am constantly exploring ways to automate and optimize development workflows.
+Passionate and results-driven Backend Developer, Frontend Developer, and DevOps Junior Developer with expertise in designing and optimizing scalable web applications. Proven track record of delivering clean, error-free code while adhering to architectural best practices. I am skilled in API development, application testing, and performance optimization. Known for strong problem-solving abilities, documentation skills, and meeting tight deadlines through effective collaboration.
 
 ## 🌱 Currently Learning DevOps:
 I'm actively expanding my skill set in DevOps. I have hands-on experience with cloud services like DigitalOcean, AWS, and S3 Buckets, and I’ve worked with Kubernetes for container orchestration. I also use GitHub Actions for CI/CD pipelines, improving automation and streamlining deployment processes. I focus on ensuring smooth collaboration between development and operations for faster, more reliable software delivery.
@@ -25,4 +25,4 @@ I'm actively expanding my skill set in DevOps. I have hands-on experience with c
 - Exploring new technologies to stay ahead of the curve.
 - Creating tools that simplify and optimize development and deployment processes.
   
-I am always eager to collaborate on exciting projects, learn from others, and contribute to the tech community. Feel free to connect with me, and let’s build something amazing together!
+I am a fast learner with a strong ability to quickly grasp new technologies and adapt to changing environments. My passion for software development drives me to continuously expand my skill set and take on new challenges with enthusiasm. Whether it’s mastering a new framework, optimizing system performance, or troubleshooting complex issues, I am always ready to learn, adapt, and deliver results efficiently. I thrive in dynamic teams where I can contribute innovative solutions while continuously improving my expertise.
