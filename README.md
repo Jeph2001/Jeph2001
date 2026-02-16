@@ -1,5 +1,7 @@
 ## 👋 Hi, I'm Joseph MANIRAGABA!
-Passionate and results-driven Backend Developer, Frontend Developer, and DevOps Junior Developer with expertise in designing and optimizing scalable web applications. Proven track record of delivering clean, error-free code while adhering to architectural best practices. I am skilled in API development, application testing, and performance optimization. Known for strong problem-solving abilities, documentation skills, and meeting tight deadlines through effective collaboration.
+Backend Engineer with 2+ years of experience designing scalable APIs, multi-tenant systems, and cloud-based deployments. Experienced in
+Node.js, Laravel, Django, GraphQL, TypeORM and containerized environments using Docker. Proven ability to manage CI/CD pipelines and
+production deployments. Graduated in Information Technology in 2025.
 
 ## 🌱 Currently Learning DevOps:
 I'm actively expanding my skill set in DevOps. I have hands-on experience with cloud services like DigitalOcean, AWS, and S3 Buckets, and I’ve worked with Kubernetes for container orchestration. I also use GitHub Actions for CI/CD pipelines, improving automation and streamlining deployment processes. I focus on ensuring smooth collaboration between development and operations for faster, more reliable software delivery.
